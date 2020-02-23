@@ -1,1 +1,2 @@
-# NES
+# NRS
+Netliex Recommendation System
